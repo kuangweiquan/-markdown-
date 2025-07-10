@@ -244,14 +244,14 @@ int main() {
 
 ```markdown
 // 网络图片
-![GitHub Logo](https://github.githubassets.com/images/logo.svg "GitHub Logo")
+![GitHub Logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png "GitHub Logo")
 
 // 本地图片（假设仓库中有 images/code.png）
 ![代码示例图](images/code.png "本地代码图片")
 ```
 
 效果（网络图片示例）：
-![GitHub Logo](https://github.githubassets.com/images/logo.svg "GitHub Logo")
+![GitHub Logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png "GitHub Logo")
 
 > 注意：本地图片需随文档一起上传到GitHub仓库，路径需正确（建议用相对路径），否则会显示失效。
 
@@ -263,13 +263,13 @@ int main() {
 ```markdown
 <!-- 用HTML实现图片居中+缩放 -->
 <p align="center">
-  <img src="https://github.githubassets.com/images/logo.svg" width="50%" alt="缩放后的Logo">
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50%" alt="缩放后的Logo">
 </p>
 ```
 
 效果：
 <p align="center">
-  <img src="https://github.githubassets.com/images/logo.svg" width="50%" alt="缩放后的Logo">
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50%" alt="缩放后的Logo">
 </p>
 
 
