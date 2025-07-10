@@ -188,9 +188,9 @@ GitHub对Markdown脚注支持有限（部分场景不显示），建议用「链
 
 
 ### 代码块
-用` ``` ``` ` 包裹多行代码，可指定语言（如 `cpp`、`python`）实现语法高亮。
+用` ````` `,` ``` ``` ` 包裹多行代码，可指定语言（如 `cpp`、`python`）实现语法高亮。
 
-```markdown
+`````markdown
 ```cpp
 #include <iostream>
 using namespace std;
@@ -200,7 +200,7 @@ int main() {
     return 0;
 }
 ```
-```
+`````
 
 效果：
 ```cpp
