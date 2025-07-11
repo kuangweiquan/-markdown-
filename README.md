@@ -292,7 +292,7 @@ $$
 $$
 \sum_{i=1}^n i = \frac{n(n+1)}{2}
 $$
-> 😭作者目前没有解决LaTeX在GitHub上无法渲染的问题建，议移步到专用Markdown编辑器阅读。
+> 😭作者目前没有解决LaTeX在GitHub上无法渲染的问题，建议移步到专用Markdown编辑器阅读。
 
 ## 总结
 📍Markdown的核心优势是「简洁易读」，以上是GitHub常用的基础语法，熟练后可高效编写文档。如需更复杂的样式，建议结合HTML/CSS或使用专用Markdown编辑器（如Typora、VSCode+插件）预览效果后再发布。
